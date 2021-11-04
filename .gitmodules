@@ -1,0 +1,6 @@
+[submodule "layouts"]
+	path = react-layouts
+	url = ../react-layouts.git
+[submodule "react-components"]
+	path = react-components
+  url = ../react-components.git
